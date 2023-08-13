@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+:root {
+    /* --primaryFont: 'Lobster', cursive; */
+    --primaryFont: 'Raleway', sans-serif;
+    /* --primaryFont: 'Dancing Script', cursive; */
+    /* --primaryFont: 'Borel', cursive; */
+    /* --primaryFont: 'Poppins', sans-serif; */
+    /* --primaryFont: 'Montserrat', sans-serif; */
+}
+
+
